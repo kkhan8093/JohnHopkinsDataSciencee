@@ -172,10 +172,3 @@ Unsupervised prediction
 * [Week 2](https://www.kaggle.com/benthecoder/practical-machine-learning-week-2-quiz)
 * [Week 3](https://www.kaggle.com/benthecoder/practical-machine-learning-week-3-quiz)
 * [Week 4](https://www.kaggle.com/benthecoder/practical-machine-learning-week-4-quiz)
-
-
-## Proof of completion
-
-![Certificate for first course](cert8.png) 
-
-[View it online](https://coursera.org/share/07d1820dad9ad20952834ba097bed505)
