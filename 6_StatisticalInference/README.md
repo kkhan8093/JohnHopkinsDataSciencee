@@ -155,8 +155,3 @@ rely heavily on the observed data, such as permutation testing and bootstrapping
 
 Read more in the book!
 
-## Proof of completion 
-
-![Certificate for 6th course](cert6.png)
-
-[View it online](https://coursera.org/share/f24bd532e41c87a7c5adb8302aff8aa4)
