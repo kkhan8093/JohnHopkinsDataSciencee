@@ -40,10 +40,3 @@ The second project was about using the R markdown and plotly to create a present
 The last project was about creating a shiny app and a reproducible pitch to talk about the presentation. I made a simple covid-19 dashboard with the covid19 package, it was really intuitive to use. I switched up how I create the presentation and used the slidy format instead of the ioslides, and it looked a lot nicer and had a wider form, which was great. 
 
 Overall this course was pretty shallow, would've loved more content about building the shiny app, and then deploying it, possible using docker to containerize. 
-
-
-## Proof of completion
-
-![Certificate for first course](cert9.png) 
-
-[View it online](https://coursera.org/share/91c9766beadd5eebe42b509371b3b258)
