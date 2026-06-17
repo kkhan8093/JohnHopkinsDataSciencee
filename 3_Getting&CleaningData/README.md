@@ -11,9 +11,3 @@ The first half of the course was all about reading in different kinds of data so
 ## Tidy Data Paper
 This course centers on the tidy data philosophy, which is a standard way of cleaning data and preparing it for analysis.
 [Tidy Data - Hadley Wickham](https://vita.had.co.nz/papers/tidy-data.pdf)
-
-## Proof of completion
-
-![Certificate for Third course](cert3.png) 
-
-[View it online](https://coursera.org/share/610fdef13b8e03a2884e0e4bad580d46)
