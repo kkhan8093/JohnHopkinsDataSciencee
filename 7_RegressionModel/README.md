@@ -96,8 +96,3 @@ This course is complemented with the book below
 * [Regression Models for Data Science in R](https://leanpub.com/regmods/read)
 * [code for book](https://github.com/gnsljw/Coursera-Data-Science-Brian-Caffo/tree/master/07_RegressionModels)
 
-## Proof of completion
-
-![Certificate for 6th course](cert7.png)
-
-[View it online](https://coursera.org/share/f022d541561c1eb4b3398140fe3451b7)
