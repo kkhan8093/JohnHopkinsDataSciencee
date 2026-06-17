@@ -17,9 +17,3 @@ No | Project Title | About
 1 | [Air Pollution](Air_pollution) | Writing functions to interact with Air pollution data
 2 | [Cache Matrix](cache-matrix) | Writing a function to cache inverse of a matrix
 3 | [Hospital Ranking](hospital_ranking) | Writing functions to rank hospitals by mortality rate
-
-## Proof of completion
-
-![Certificate for second course](cert2.png) 
-
-[View it online](https://coursera.org/share/ce74bc3d33b1aa8ff2f0dd7c87ea0dbb)
